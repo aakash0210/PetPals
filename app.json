@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pet-tinder-react-native",
-    "slug": "pet-tinder-react-native",
+    "name": "pet_pals",
+    "slug": "pet_pals",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
