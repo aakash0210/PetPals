@@ -4,7 +4,7 @@ import HomeScreen from "./containers/Home";
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 const Stack = createStackNavigator();
-
+// hello its from the other side comment hello git
 export class App extends Component {
 	render(){
         return(

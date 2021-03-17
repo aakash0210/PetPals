@@ -15,7 +15,7 @@ export default StyleSheet.create({
 
 	// COMPONENT - CARD ITEM
 	containerCardItem: {
-		backgroundColor: 'blackgit ',
+		backgroundColor: 'black',
 		borderRadius: 8,
 		alignItems: "center",
 		paddingTop: 10,
